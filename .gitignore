@@ -1,0 +1,36 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Python interpreter
+venv
+
+# Python dependencies
+/.pnp
+.pnp.js
+
+# Editors and IDEs
+.idea
+*.sublime*
+.vscode
+
+# Node, npm, yarn and log files
+node_modules/
+.npmrc
+*.log*
+
+# Transpiled code
+build/
+dist/
+
+# Local config files
+*.env
+
+# Mock data
+src/mock/
+
+# Temporary files
+~*
+
+# Misc
+.eslintcache
